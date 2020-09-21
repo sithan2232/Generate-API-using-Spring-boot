@@ -2,7 +2,7 @@
 
 Remind myself
 
-โปรเเกรมดึงข้อมูลจาก database เเละส่งต่อโดยใช้ API 
+โปรเเกรมดึงข้อมูลจาก database เเละส่งต่อโดยใช้ API โดยการสร้าง API ให้ environment อื่นเรียก 
 
 ตัวอย่าง API สําหรับ log-in
 
