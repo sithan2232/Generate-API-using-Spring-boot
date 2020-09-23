@@ -4,6 +4,12 @@ Remind myself
 
 โปรเเกรมดึงข้อมูลจาก database เเละส่งต่อโดยใช้ API โดยการสร้าง API ให้ environment อื่นเรียก 
 
+Dependency
+(Web,
+Sql,
+Dev,
+JPA)
+
 ตัวอย่าง API สําหรับ log-in
 
 ![](https://github.com/sithan2232/Practice-Spring-Boot/blob/master/images/login/log-in.png)
